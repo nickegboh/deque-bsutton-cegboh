@@ -1,3 +1,4 @@
+{{{
 // ----------------------------
 // projects/deque/TestDeque.c++
 // Copyright (C) 2010
@@ -553,3 +554,4 @@ int main () {
 
     cout << "Done." << endl;
     return 0;}
+}}}
